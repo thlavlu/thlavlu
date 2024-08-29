@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Md Tousif Hasan Lavlu</h1>
 <h3 align="center">A passionate research enthusiastic and programmer.</h3>
-<h3 align="center">Current research interest in Comoputer Vision, Deep Learning, Generative AI, Reinforcement Learning.</h3>
+<h3 align="center">Research interest in Comoputer Vision, Deep Learning, Generative AI, Reinforcement Learning.</h3>
+Currently,I am working Machine Learning Algorithms in Healthcare data, Standardization Electronic Health Record (EHRs). 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thlavlu&label=Profile%20views&color=0e75b6&style=flat" alt="thlavlu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Currently,I am working Machine Learning Algorithms in Healthcare data, Standardization Electronic Health Record (EHRs). 
+
 
 
 <h3 align="left">Languages and Tools:</h3>
