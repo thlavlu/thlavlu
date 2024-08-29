@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tousif Hasan Lavlu</h1>
+<h1 align="center">Hi, I'm Md Tousif Hasan Lavlu</h1>
 <h3 align="center">A passionate research enthusiastic and programmer.</h3>
+<h3 align="center">Current research interest in Comoputer Vision, Deep Learning, Generative AI, Reinforcement Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thlavlu&label=Profile%20views&color=0e75b6&style=flat" alt="thlavlu" /> </p>
 
