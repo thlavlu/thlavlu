@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React, SpringBoot, .NET, Python, Jira**
+Currently,I am working Machine Learning Algorithms in Healthcare data, Standardization Electronic Health Record (EHRs). 
 
 - 💬 Ask me about **Java, MERN**
 
