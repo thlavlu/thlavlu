@@ -36,7 +36,6 @@ This is Md Tousif Hasan Lavlu
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -51,22 +50,10 @@ This is Md Tousif Hasan Lavlu
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
-
-
-### Utilities
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![YARN](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![dotenv](https://img.shields.io/badge/.env-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=white)
-![cors](https://img.shields.io/badge/cors-white?style=for-the-badge&logo=cors&logoColor=white&labelColor=white&color=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-white?style=for-the-badge&logo=bcrypt&logoColor=white&labelColor=white&color=white)
-![ReactQuery](https://img.shields.io/badge/reactquery-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
-![ReactRouter](https://img.shields.io/badge/reactrouter-%23CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
-![ReactHookForm](https://img.shields.io/badge/reacthookform-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-
-
 ### Cloud and Architecture
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![MircroSoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
@@ -90,16 +77,24 @@ This is Md Tousif Hasan Lavlu
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
-
-
-
-
 ### OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+
+
+### Miscellaneous
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![YARN](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![dotenv](https://img.shields.io/badge/.env-%23ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=white)
+![cors](https://img.shields.io/badge/cors-white?style=for-the-badge&logo=cors&logoColor=white&labelColor=white&color=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-white?style=for-the-badge&logo=bcrypt&logoColor=white&labelColor=white&color=white)
+![ReactQuery](https://img.shields.io/badge/reactquery-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
+![ReactRouter](https://img.shields.io/badge/reactrouter-%23CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
+![ReactHookForm](https://img.shields.io/badge/reacthookform-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 
 \
