@@ -7,8 +7,7 @@ This is Md Tousif Hasan Lavlu
 -  I’m currently learning Advanced Machine Learning Algorithm.
 
 
-# 📈 Checkout my Engineering Timeline: 
-[![Dispatch](https://img.shields.io/badge/THE%20ENGINEERING%20TIMELINE-white?style=for-the-badge&label=DISPATCH&labelColor=black&color=white)](https://dispatch-theta.vercel.app/public/jh7fwcw237t0azj2smdhjnrshs6n81s3?fbclid=IwAR22IKLMLC8zhFnf4coFmf0XBrp-5iztROnJRROJBY905-ZIef_BT0tOFTg)
+# 📈 Checkout my Google Scholars Profile: 
 
 # 🌐 On The Web:
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-075e54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801970088322)
