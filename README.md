@@ -8,8 +8,6 @@ I am a Lecturer at Shanto-Mariam Univeristy of Creative Technology, Department o
 ### Machine Learning: Deep Learning, Computer Vision, Reinforcement Learning, Cognitive Computing, Generative AI, Federated Learning
 ### Health Informatics: Predictive Analysis, Diagnostic AI, Clinical Documentations
 
-## 📈 Checkout my Google Scholars Profile
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
 ## 🌐 On The Web
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-075e54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801970088322)
@@ -18,8 +16,7 @@ I am a Lecturer at Shanto-Mariam Univeristy of Creative Technology, Department o
 [![Google Scholars](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=fE-nhx4AAAAJ&hl=en)
 
 
-
-## 🧱 Tech Stack
+## Tech Stack 💁‍♂️
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
