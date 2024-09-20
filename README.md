@@ -8,7 +8,6 @@ This is Md Tousif Hasan Lavlu
 ### Machine Learning: Deep Learning, Computer Vision, Reinforcement Learning, Cognitive Computing, Generative AI, Federated Learning
 ### Health Informatics: Predictive Analysis, Diagnostic AI, Clinical Documentations
 
-
 ## 📈 Checkout my Google Scholars Profile: 
 
 ## 🌐 On The Web:
@@ -29,8 +28,6 @@ This is Md Tousif Hasan Lavlu
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-
-
 ### Machine Learning Tools
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -43,7 +40,6 @@ This is Md Tousif Hasan Lavlu
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-
 
 ### UI
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -97,14 +93,12 @@ This is Md Tousif Hasan Lavlu
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-
 ### OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-
 
 ### Miscellaneous
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -117,7 +111,5 @@ This is Md Tousif Hasan Lavlu
 ![ReactRouter](https://img.shields.io/badge/reactrouter-%23CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![ReactHookForm](https://img.shields.io/badge/reacthookform-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
-
-\
 &nbsp;
   
