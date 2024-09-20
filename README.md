@@ -1,9 +1,9 @@
 [![](https://visitcount.itsvg.in/api?id=thlavlu&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 # Hi 👋, This is MD TOUSIF HASAN LAVLU
-I am a Lecturer at Shanto-Mariam Univeristy
+I am a Lecturer at Shanto-Mariam Univeristy of Creative Technology, Department of CSE & CSIT
 -  I’m currently learning Advanced Machine Learning Algorithm.
--  Learning Software Development Framework
+-  Looking for any opening in  Research Assistant / ML Engineer / Software Developer
 ## Research Interest 
 ### Machine Learning: Deep Learning, Computer Vision, Reinforcement Learning, Cognitive Computing, Generative AI, Federated Learning
 ### Health Informatics: Predictive Analysis, Diagnostic AI, Clinical Documentations
