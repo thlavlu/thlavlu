@@ -16,7 +16,7 @@ Health Informatics: Predictive Analysis, Diagnostic AI, Clinical Documentations}
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thlavlu@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thlavlu/)
 
-# 🧱 Tech Stack
+## 🧱 Tech Stack
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
