@@ -1,7 +1,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/thlavlu/count.svg)
 
-# Hi👋
-This is Md Tousif Hasan Lavlu
+# Hi, This MD TOUSIF HASAN LAVLU👋
+I am a Lecturer at Shanto-Mariam Univeristy
 -  I’m currently learning Advanced Machine Learning Algorithm.
 -  Learning Software Development Framework
 ## Research Interest 
