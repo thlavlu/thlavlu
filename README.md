@@ -6,9 +6,7 @@ This is Md Tousif Hasan Lavlu
 -  Learning Software Development Framework
 ## Research Interest 
 ### Machine Learning: Deep Learning, Computer Vision, Reinforcement Learning, Cognitive Computing, Generative AI, Federated Learning
-### Health Informatics: Predictive Analysis, Diagnostic AI, Clinical Documentations}
-
--  I’m currently learning Advanced Machine Learning Algorithm.
+### Health Informatics: Predictive Analysis, Diagnostic AI, Clinical Documentations
 
 
 ## 📈 Checkout my Google Scholars Profile: 
