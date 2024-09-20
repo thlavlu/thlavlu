@@ -15,7 +15,7 @@ I am a Lecturer at Shanto-Mariam Univeristy of Creative Technology, Department o
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-075e54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801970088322)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tousif.lavlu@smuct.ac.bd.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thlavlu/)
-[![Google Scholars]([https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=fE-nhx4AAAAJ&hl=en)
+[![Google Scholars](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=fE-nhx4AAAAJ&hl=en)
 
 
 
