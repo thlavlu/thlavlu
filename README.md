@@ -2,14 +2,14 @@
 
 # Hi👋
 This is Md Tousif Hasan Lavlu
-### Research Interest 
-## Machine Learning: Deep Learning, Computer Vision, Reinforcement Learning, Cognitive Computing, Generative AI, Federated Learning
+## Research Interest 
+### Machine Learning: Deep Learning, Computer Vision, Reinforcement Learning, Cognitive Computing, Generative AI, Federated Learning
 Health Informatics: Predictive Analysis, Diagnostic AI, Clinical Documentations}
 
 -  I’m currently learning Advanced Machine Learning Algorithm.
 
 
-# 📈 Checkout my Google Scholars Profile: 
+### 📈 Checkout my Google Scholars Profile: 
 
 # 🌐 On The Web:
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-075e54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801970088322)
