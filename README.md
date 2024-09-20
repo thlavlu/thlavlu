@@ -1,6 +1,8 @@
-![Visitor Count](https://profile-counter.glitch.me/thlavlu/count.svg)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=thlavlu&label=Profile%20Views&color=5&icon=5&pretty=false" />
+</a>
 
-# Hi, This MD TOUSIF HASAN LAVLU👋
+# Hi 👋, This is MD TOUSIF HASAN LAVLU
 I am a Lecturer at Shanto-Mariam Univeristy
 -  I’m currently learning Advanced Machine Learning Algorithm.
 -  Learning Software Development Framework
