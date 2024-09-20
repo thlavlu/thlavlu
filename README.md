@@ -3,7 +3,7 @@
 # Hi👋
 This is Md Tousif Hasan Lavlu
 ### Research Interest 
-Machine Learning: Deep Learning, Computer Vision, Reinforcement Learning, Cognitive Computing, Generative AI, Federated Learning}
+## Machine Learning: Deep Learning, Computer Vision, Reinforcement Learning, Cognitive Computing, Generative AI, Federated Learning
 Health Informatics: Predictive Analysis, Diagnostic AI, Clinical Documentations}
 
 -  I’m currently learning Advanced Machine Learning Algorithm.
