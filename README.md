@@ -6,7 +6,7 @@ I am a Lecturer at Shanto-Mariam Univeristy of Creative Technology, Department o
 -  Looking for any opening in  Research Assistant / ML Engineer / Software Developer
 ## Research Interest 
 ### Machine Learning: Deep Learning,Reinforcement Learning, Generative AI, LLM
-### Trusworthy AI:Federated Learning, Advarsarial Machine Learning, 
+### Trusworthy AI: Federated Learning, Advarsarial Machine Learning, 
 ### Health Informatics: Predictive Analysis, Diagnostic AI, Clinical Documentations
 
 
