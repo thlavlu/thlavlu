@@ -5,7 +5,8 @@ I am a Lecturer at Shanto-Mariam Univeristy of Creative Technology, Department o
 -  I’m currently learning Advanced Machine Learning Algorithm and Sofware Development Framework
 -  Looking for any opening in  Research Assistant / ML Engineer / Software Developer
 ## Research Interest 
-### Machine Learning: Deep Learning, Computer Vision, Reinforcement Learning, Cognitive Computing, Generative AI, Federated Learning, Cloud Computing
+### Machine Learning: Deep Learning,Reinforcement Learning, Generative AI, LLM
+### Trusworthy AI:Federated Learning, Advarsarial Machine Learning, 
 ### Health Informatics: Predictive Analysis, Diagnostic AI, Clinical Documentations
 
 
